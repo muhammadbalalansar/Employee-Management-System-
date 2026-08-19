@@ -22,6 +22,7 @@ http://127.0.0.1:8000/register
 # Event management
 ![event management](https://user-images.githubusercontent.com/15700384/56889858-634b5c80-6a97-11e9-9bd5-322a547f58cc.png)
 
+
 ## Installation
 This project is for employee management.Employee can register himself and employee can assign a salary for employee...
 
