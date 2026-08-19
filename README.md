@@ -24,7 +24,6 @@ http://127.0.0.1:8000/register
 ## Installation
 This project is for employee management.Employee can register himself and employee can assign a salary for employee...
 
-
 ## Composer install
 cd Employee-management-system-in-laravel
 composer install
@@ -41,4 +40,3 @@ php artisan db:seed
 # Login credentials
 Admin Account: ['email' => 'ganeshkhadka46@gmail.com', 'password' => 'admin123'] <br>
 Employee Account: ['email' => 'employee1@gmail.com', 'password' => 'employee123'] 
-
