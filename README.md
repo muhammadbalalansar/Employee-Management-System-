@@ -15,7 +15,6 @@ http://127.0.0.1:8000/register
 
 # Salary management
 
-
 ![salary management](https://user-images.githubusercontent.com/15700384/56889637-a1944c00-6a96-11e9-9fef-efec4e27dc40.png)
 
 # Leave management
