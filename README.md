@@ -40,6 +40,5 @@ php artisan migrate
 
 php artisan db:seed
 
-
 ai generated user password change any time <br>
 Employee Account: ['email' => 'employee1@gmail.com', 'password' => 'employee123'] 
