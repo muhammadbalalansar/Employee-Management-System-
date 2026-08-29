@@ -34,6 +34,7 @@ cd Employee-management-system-in-laravel
 composer install
 
 # Database
+
 Ajust the database information, then:
 php artisan migrate
 
