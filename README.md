@@ -8,7 +8,7 @@ http://127.0.0.1:8000/register
 
 ## You can engage in this project to make this more advanced and you can add new features.You contribution will be highly appreciated !!
 
-## Screenshots
+## Screenshots:
 
 # Login page
 
