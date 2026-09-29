@@ -36,7 +36,7 @@ This project is for employee management.Employee can register himself and employ
 cd Employee-management-system-in-laravel
 composer install
 
-# Database
+# Database:
 
 Ajust the database information, then:
 php artisan migrate
